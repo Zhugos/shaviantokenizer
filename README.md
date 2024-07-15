@@ -13,6 +13,7 @@ I am not an expert in the tokenization space, git, or python. I want to support 
 1. Build a team discuss and determine that there is merit in exploring a phonemic english tokenizer (shawkenizer?)
 2. Scope, design, build, and test the tokenizer
 3. Data analytics to compare known tokenizers to our state of the art for Compression Ratio, Vocabulary Size, and OOV Rate.  At this point I don't think encoding/decoding speed should be a primary factor
+4. Learn best practices and get to know the community.  New community members should be welcomed here.
 
 # References
 - [wikipedia - Shavian Alphabet](https://en.m.wikipedia.org/wiki/Shavian_alphabet)
