@@ -16,5 +16,7 @@ I am not an expert in the tokenization space, git, or python. I want to support 
 4. Learn best practices and get to know the community.  New community members should be welcomed here.
 
 # References
-- [wikipedia - Shavian Alphabet](https://en.m.wikipedia.org/wiki/Shavian_alphabet)
+- [Shavian Alphabet - Wikipedia](https://en.m.wikipedia.org/wiki/Shavian_alphabet)
 - [Prior efforts around Shavian - Dechifro.org](https://www.dechifro.org/shavian/shaw.py)
+- [Andrej Karpathy on GPT Tokenization - Youtube](https://www.youtube.com/watch?v=zduSFxRajkE)
+- [Andrej Karpathy on GPT Tokenization - Github](https://github.com/karpathy/minbpe/blob/master/exercise.md)
