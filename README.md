@@ -15,8 +15,15 @@ I am not an expert in the tokenization space, git, or python. I want to support 
 3. Data analytics to compare known tokenizers to our state of the art for Compression Ratio, Vocabulary Size, and OOV Rate.  At this point I don't think encoding/decoding speed should be a primary factor
 4. Learn best practices and get to know the community.  New community members should be welcomed here.
 
+# Approach
+This doesn't need to even display the Shavian fonts, but would be nice homage if it would. The goal is to transform English language input and return the Shavian tokenization.  This would of course require an LLM to be completely retrained.  If has sufficently improved metrics, perhaps this efficiency would be enough to explore further.
+
 # References
 - [Shavian Alphabet - Wikipedia](https://en.m.wikipedia.org/wiki/Shavian_alphabet)
 - [Prior efforts around Shavian - Dechifro.org](https://www.dechifro.org/shavian/shaw.py)
+- [A web interface - Dechifro.org](https://dechifro.org/shavian/)
 - [Andrej Karpathy on GPT Tokenization - Youtube](https://www.youtube.com/watch?v=zduSFxRajkE)
 - [Andrej Karpathy on GPT Tokenization - Github](https://github.com/karpathy/minbpe/blob/master/exercise.md)
+- [Shavian on Reddit](https://www.reddit.com/r/shavian)
+- [Shavian-info - Github](https://github.com/Shavian-info)
+- [ShavianTTS - Github](https://github.com/serif/Shavian_TTS)
