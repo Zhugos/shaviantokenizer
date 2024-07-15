@@ -2,7 +2,7 @@
 Using Shavian alphabet to improve tokenization for LLMs and SST
 
 # Why and What is Shavian?
-Shavian is something that came from George Bernard Shaw's dislike of the in-ellegance of the hodge podge of borrowed letters that the English alphabet uses. In his will he set aside cash to create a more efficient english alphabet.
+Shavian is something that came from George Bernard Shaw's dislike of the in-elegance of the hodge podge of borrowed letters that the English alphabet uses. In his will he set aside cash to create a more efficient english alphabet.
 
 It turns out its very difficult to make humans change things once there is cultural momentum. From the QwERTY slow you down keyboard to the English alphabet, we are stuck with it for a while. We can still reap the rewards of Shavian if we use it to train LLMs.  My assertion is that its better phonemic orthography will help remove a layer of complexity of CH being a different sound and meaning than C and H separately (as an example).
 
