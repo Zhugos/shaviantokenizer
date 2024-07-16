@@ -27,3 +27,4 @@ This doesn't need to even display the Shavian fonts, but would be nice homage if
 - [Shavian on Reddit](https://www.reddit.com/r/shavian)
 - [Shavian-info - Github](https://github.com/Shavian-info)
 - [ShavianTTS - Github](https://github.com/serif/Shavian_TTS)
+- [Tiktoken - GitHub](https://github.com/openai/tiktoken)
